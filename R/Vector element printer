@@ -1,0 +1,5 @@
+
+r <- c(6, 5.5, "ayush", 'a')
+for (i in r) {
+  print(i)
+}
